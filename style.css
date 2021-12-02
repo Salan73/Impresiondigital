@@ -82,6 +82,9 @@ img{
 	grid-template-columns: 1fr 1fr 1fr;
 	grid-gap: 40px;
 }
+.grid-3 a{
+color: #fff;
+}
 .grid-2{
 	display: grid;
 	grid-template-columns: repeat(2, 1fr);
